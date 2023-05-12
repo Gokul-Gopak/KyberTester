@@ -1,0 +1,25 @@
+{
+  "name": "kyber",
+  "version": "1.0.0",
+  "description": "Chat Application using Kyber Encryption",
+  "main": "kyberServer.js",
+  "scripts": {
+    "start": "node kyberServer.js",
+    "dev": "nodemon kyberServer.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vishnu & Gokul",
+  "license": "ISC",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "crypto-js": "^4.1.1",
+    "crystals-kyber": "^5.1.0",
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "http": "^0.0.1-security",
+    "node": "^20.1.0",
+    "node-js": "^1.0.0",
+    "secure-random": "^1.1.2",
+    "socket.io": "^4.6.1"
+  }
+}
