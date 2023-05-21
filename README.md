@@ -36,3 +36,11 @@ The chat messages in this application are encrypted to ensure secure communicati
 * Message Encryption: When a user sends a chat message, it is encrypted using the AES-256-CBC encryption algorithm and the symmetric key. The encrypted message is then sent to the server.
 
 * Message Decryption: The server receives the encrypted message and decrypts it using the symmetric key obtained from the encapsulation process. The decrypted message is then broadcasted to all connected clients.
+
+**Output**
+You can check out this application at : https://kyber-tester-web-chat-room.onrender.com/
+<img width="1440" alt="image" src="https://github.com/Gokul-Gopak/KyberTester/assets/62656054/1ec296b1-65d5-481e-b667-8c2373dca2e9">
+
+<img width="1440" alt="image" src="https://github.com/Gokul-Gopak/KyberTester/assets/62656054/cbfe8002-46bc-48e0-8c80-ab857f05b6ec">
+<img width="1440" alt="Screen Shot 2023-05-21 at 5 20 45 PM" src="https://github.com/Gokul-Gopak/KyberTester/assets/62656054/753820f7-8e97-4737-a087-9d5cd0492154">
+
