@@ -1,5 +1,5 @@
 # Kyber Chatroom
-This is a simple chat application built using Socket.IO and Node.js. It allows users to send and receive encrypted chat messages in real-time.
+This is a simple quantum proof enabled chat application built primarily using Socket.IO and Node.js. It allows users to send and receive encrypted chat messages in real-time with the help of the Crystal's kyber algorithm.
 
 **Overview**
 
