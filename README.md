@@ -38,7 +38,9 @@ The chat messages in this application are encrypted to ensure secure communicati
 * Message Decryption: The server receives the encrypted message and decrypts it using the symmetric key obtained from the encapsulation process. The decrypted message is then broadcasted to all connected clients.
 
 **Output**
+
 You can check out this application at : https://kyber-tester-web-chat-room.onrender.com/
+
 <img width="1440" alt="image" src="https://github.com/Gokul-Gopak/KyberTester/assets/62656054/1ec296b1-65d5-481e-b667-8c2373dca2e9">
 
 <img width="1440" alt="image" src="https://github.com/Gokul-Gopak/KyberTester/assets/62656054/cbfe8002-46bc-48e0-8c80-ab857f05b6ec">
